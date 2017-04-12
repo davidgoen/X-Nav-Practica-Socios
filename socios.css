@@ -1,0 +1,42 @@
+body{
+	background:#e5e5e5;
+}
+
+.header{
+	height: 80px;
+	background:#e5e5e5;
+	border: 5px solid white;
+ 	text-align:center;
+}
+.header span{
+	font-size: 65px;
+	text-transform:uppercase;
+}
+
+#mens{
+	margin-top:10px;
+	background:white;
+}
+
+img{
+	height:42px;
+	width: 42px;
+	border: 2px solid red;
+}
+
+.autor{
+	font: 20px sans-serif;
+	position: absolute;
+	margin-left: 50px;
+	color: red;
+}
+.titulo{
+	font: 20px sans-serif;
+	position: absolute;
+	margin-left: 50px;
+	top:35px;
+	color: black;
+}
+#update{
+	margin-left:41%;
+}
